@@ -1,6 +1,10 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚢 𝚗𝚊𝚖𝚎 , <a href='https://t.me/RedFoxx_Bot'>ᏒΞᎠFOX</a>, 𝙸𝚝'𝚜 𝚟𝚎𝚛𝚢 𝚎𝚊𝚜𝚢 𝚓𝚞𝚜𝚝 𝚊𝚍𝚍 𝚖𝚎 𝚝𝚘 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚖𝚎 𝚊𝚍𝚖𝚒𝚗, 𝚃𝚑𝚊𝚝𝚜 𝚊𝚕𝚕 𝙸'𝚕𝚕 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚖𝚘𝚟𝚒𝚎𝚜 𝚝𝚑𝚎𝚛𝚎 ♥️
+    START_TXT = """𝙃𝙚𝙞 {},💞
+💥𝙄'𝙢 𝘼𝙪𝙩𝙤𝙛𝙞𝙡𝙩𝙚𝙧 𝘽𝙤𝙩 𝙤𝙧 𝙔𝙤𝙪 𝘾𝙖𝙣 𝘾𝙖𝙡𝙡 𝙢𝙚 𝙖𝙨
+➖️➖️➖️➖️➖️😍𝙈𝙚𝙙𝙞𝙖 𝙎𝙚𝙖𝙧𝙘𝙝 𝘽𝙤𝙩😍➖️➖️➖️➖️➖️
+💥𝙄 𝘾𝙖𝙣 𝙋𝙧𝙤𝙫𝙞𝙙𝙚 𝙈𝙤𝙫𝙞𝙚𝙨 𝙄𝙣 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥, 𝙄𝙩 𝙑𝙚𝙧𝙮 𝙀𝙖𝙨𝙮 𝙒𝙖𝙮 𝙅𝙪𝙨𝙩\n➖️➖️➖️<a href=http://t.me/Auto_imdb_sha_bot?startgroup=botstart>➕️𝘼𝙙𝙙 𝙈𝙚 𝙏𝙤 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥➕️</a>➖️➖️➖️ \n💥𝘼𝙣𝙙 𝙈𝙖𝙠𝙚 𝙈𝙚 𝘼𝙙𝙢𝙞𝙣 𝙄𝙣 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥, 𝙏𝙝𝙖𝙩𝙨 𝙖𝙡𝙡\n 💥𝙄'𝙡𝙡 𝙋𝙧𝙤𝙫𝙞𝙙𝙚 𝙈𝙤𝙫𝙞𝙚𝙨 𝙏𝙤 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥
+💥𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙈𝙤𝙨𝙩 𝙁𝙞𝙡𝙚𝙨 𝘼𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚 𝘽𝙤𝙩💯
+💔𝙈𝙖𝙞𝙣𝙩𝙖𝙞𝙣𝙚𝙙 𝘽𝙔 :<a href=https://t.me/movies_club_2018>◆❏ᴍᴏᴠɪᴇs ᴄʟᴜʙ❏◆</a>
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
@@ -8,8 +12,8 @@ class script(object):
 ⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆
 ╔═════❰ ᏒΞᎠFOX ❱══⪼𒆜
 ║╭━━━━━━━━━━━━━━━⏤͟͟͞͞★ 
-║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="https://t.me/RedFoxx_Bot"> ᏒΞᎠFOX </a>
-║┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - <a href="https://t.me/Aadhi010"> 𝙰𝙰𝙳𝙷𝙸 </a>
+║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - MICHAEL
+║┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - <a href=https://t.me/peter_parker_10>𝗣𝗘𝗧𝗘𝗥 𝗣𝗔𝗥𝗞𝗘𝗥</a>
 ║┣⪼ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -21,7 +25,7 @@ class script(object):
 - ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://github.com/Lallu-lallus/AnnaBen_robot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
-<a href="https://t.me/team_annaben"> 𝑻𝑬𝑨𝑴 𝑨𝑵𝑵𝑨 </a>"""
+<a href="https://t.me/new_movies_club_2021"> 𝑻𝑬𝑨𝑴 </a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 
